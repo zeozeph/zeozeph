@@ -76,7 +76,7 @@ to create impactful global solutions.
 
 | 🌐 *Platform*       | 🔗 *Link*                                 |  
 |-----------------------|---------------------------------------------|  
-| 📩 *Email*          | [okoye.zephaniah@gmail.com](okoye.zephaniah@gmail.com)|  
+| 📩 *Email*          | [okoye.zephaniah@gmail.com](mailto:okoye.zephaniah@gmail.com)|  
 | 💼 *LinkedIn*       | [linkedin.com/in/zephaniah-okoye](https://www.linkedin.com/in/zephaniah-okoye-0b98091a6)        |  
 
 ---
